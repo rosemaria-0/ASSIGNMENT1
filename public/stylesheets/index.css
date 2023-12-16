@@ -1,0 +1,42 @@
+/* Add this CSS to your stylesheet or in a style tag in your HTML */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Adjust background color as needed */
+    color: #333; /* Adjust text color as needed */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #007bff; /* Adjust title color as needed */
+    margin-top: 40px;
+  }
+  
+  p {
+    margin: 20px 0;
+  }
+  
+  i {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .fa-solid {
+    color: #28a745; /* Adjust icon color as needed */
+  }
+  
+  .fa-computer {
+    color: #007bff; /* Adjust icon color as needed */
+  }
+  
+  .fa-user-group {
+    color: #17a2b8; /* Adjust icon color as needed */
+  }
+  
+  .fa-lightbulb {
+    color: #ffc107; /* Adjust icon color as needed */
+  }
+  

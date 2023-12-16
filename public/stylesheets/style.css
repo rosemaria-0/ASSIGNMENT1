@@ -1,8 +1,51 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+/* body {
+ 
+ 
+
+} */
 
 a {
-  color: #00B7FF;
+  color: rgb(198, 185, 200);
 }
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Optional: Adjust the height of the container */
+}
+
+/* Add styles to the image */
+.mt-4 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  width: 200px;
+}
+
+/* Add styles to the text */
+.mt-4 h1,
+.mt-4 p {
+  text-align: center;
+}
+
+body {
+      margin: 0;
+      padding: 50px;
+      box-sizing: border-box;
+      font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    footer a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
